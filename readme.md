@@ -1,6 +1,9 @@
 This is a browser extension to improve YouTube.com.
-Currently this extension removes the animation home page link and replaces it with a basic link.
+Currently this extension:
+1. Removes the animation home page link and replaces it with a basic link.
+2. Sets the search input field to focus when page loads.
 
 Future ideas for this extension are:
-1. Set the search input field to autofocus.
-2. Redirect video shorts to a URL that uses full size videos.
+1. Redirect video shorts to a URL that uses full size videos.
+2. Remove unneeded Explore link on left navigation menu.
+3. Use toggles to turn options off or on.
