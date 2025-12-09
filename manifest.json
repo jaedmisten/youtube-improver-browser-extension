@@ -3,7 +3,9 @@
 	"name": "Youtube Improver",
 	"version": "1.0",
 	"description": "A Google Chrome extension to improve the Youtube experience.",
-	"action": {},
+	"action": {
+		"default_popup": "popup.html"
+	},
 	"permissions": [],
 	"content_scripts": [
 		{
