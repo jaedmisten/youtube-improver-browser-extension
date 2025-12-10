@@ -4,7 +4,8 @@
 	"version": "1.0",
 	"description": "A Google Chrome extension to improve the Youtube experience.",
 	"action": {
-		"default_popup": "popup.html"
+		"default_popup": "popup.html",
+		"default_icon": "favicon.png"
 	},
 	"permissions": [],
 	"content_scripts": [

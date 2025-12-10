@@ -7,3 +7,8 @@ logoEl.innerHTML = '<a href="https://www.youtube.com"><span style="font-size:20p
 // Set search input to have focus.
 let searchBarEl = document.getElementsByName("search_query")[0];
 searchBarEl.focus();
+
+// Replace vague time references of when video was uploaded to date.
+// let toolTipEl = document.getElementsByClassName("fade-in-animation")["tooltip"];
+// console.log(toolTipEl);
+// console.dir(toolTipEl);
